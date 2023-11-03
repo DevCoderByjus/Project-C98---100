@@ -16,7 +16,7 @@ h4{
 {
     width:500px;
     height: 400px;
-    border: 1px solid rgb(87, 2 ,2 );
+    border:1px solid rgb(87, 2 ,2 );
 }
 
 img
@@ -37,7 +37,7 @@ img:hover{
 }
 .copy_right_footer {
     position: fixed;
-    color: 6c757d;
+    color: #6c757d;
     bottom: 0;
     width: 100%;
     background-color: #f5f5f5;
